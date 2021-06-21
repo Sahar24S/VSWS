@@ -5,7 +5,7 @@
 ### Requirements
 * Linux OS
 * Need to install and depoloy Zaproxy (https://www.zaproxy.org/)
-* Download master repository
+* clone master branch of VSWS repository
 * see vswsApi Repository
 
 
