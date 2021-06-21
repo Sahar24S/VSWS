@@ -5,6 +5,7 @@
 ### Requirements
 * Linux OS
 * Need to install and depoloy Zaproxy (https://www.zaproxy.org/)
+* Download master repository
 
 
 #Imporatnat links
