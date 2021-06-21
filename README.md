@@ -4,7 +4,7 @@
 # For Deployment 
 ### Requirements
 * Linux OS
-* Need to install and depoloy Zaproxy ((https://www.zaproxy.org/)
+* Need to install and depoloy Zaproxy (https://www.zaproxy.org/)
 
 
 #Imporatnat links
