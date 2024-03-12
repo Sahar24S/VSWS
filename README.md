@@ -3,3 +3,14 @@
 
 ### Working
 * Incomplete Integration
+
+# For Deployment 
+### Requirements
+* Linux OS
+* Need to install and depoloy Zaproxy (https://www.zaproxy.org/)
+* clone master branch of VSWS repository
+* see vswsApi Repository
+
+
+#Imporatnat links
+* https://github.com/zaproxy/zap-api-docs
